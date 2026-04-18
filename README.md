@@ -57,7 +57,8 @@ $$\pi(x) \approx \frac{x}{\ln x - 1 - \frac{\pi^2}{24 \log_{10} x} - \frac{11}{8
 
 ## Illustrative graphic
 
-<img width="1407" height="768" alt="IMG_1156" src="https://github.com/user-attachments/assets/2958bacf-3929-4938-aea0-31e52d47cb7b" />
+<img width="1407" height="768" alt="667398697_921263270674535_4225019568401565699_n" src="https://github.com/user-attachments/assets/fd6ef739-b3ce-49bb-bcb0-585d0c222f4a" />
+
 
 ## Results Analysis and Conclusions
 
